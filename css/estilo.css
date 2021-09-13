@@ -1,0 +1,60 @@
+body{
+    font-family: 'Kaisei Tokumin', serif;
+    font-size: 17px;
+}
+section{
+    border: 5px double black;
+    box-shadow: 4px 8px 8px 15px rgb(194, 191, 191);
+    margin: 30px auto 10px auto;
+    width: 1200px;
+    height: 550px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+div{
+    padding: 15px 50px 35px 50px;
+}
+h1 span{
+    display: block;
+    line-height: 30px;
+    color: rgb(82, 78, 78);
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.grande{
+    font-size: 40px;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    padding: 15px auto 15px auto;
+}
+nav{
+    word-spacing: 70px;
+    width: 700px;
+    border-bottom: 1px solid black;
+    border-top: 2px solid black;
+    margin: 20px auto 20px auto;
+
+
+}
+ul li a{
+    text-decoration: none;
+    color: black; 
+}
+ul li a:hover{
+    color: rgb(170, 73, 73);
+}
+img{
+    width: 700px;
+    height: 200px;
+    padding: 20px auto 10 px auto;
+}
+p{
+    width: 600px;
+    margin: 20px auto 25px auto;
+    align-content: center;
+    word-spacing: 10px;
+    line-height: 17px;
+    word-spacing: 10px;
+}
